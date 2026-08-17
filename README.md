@@ -4,7 +4,7 @@ Salesforce DX is a development approach that brings source-driven development, t
 
 This project template gets you started with the tools and structure you need to build Salesforce applications using source control, scratch orgs, and the Salesforce CLI.
 
-## Prerequisites
+## Prerequisites-new
 
 Before you start, make sure you have:
 
